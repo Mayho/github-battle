@@ -1,0 +1,22 @@
+# Logs
+#logs
+#*.log
+
+# Dependency directory
+node_modules/
+
+# Bower Dependency directory
+bower_components/
+
+# Miscellaneous
+#*.sw*
+#*~
+#bin/
+#vendor/
+.DS_Store
+*.DS_Store
+
+npm-debug.log
+
+# Tests
+test/
