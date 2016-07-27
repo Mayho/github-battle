@@ -10,6 +10,7 @@
   "author": "Mehul Patel <mehul8@gmail.com> (http://mehul.codes)",
   "license": "ISC",
   "dependencies": {
+    "axios": "0.13.1",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.1"
