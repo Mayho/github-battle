@@ -5,10 +5,6 @@ var Link = require('react-router').Link;
 var UserDetails = require('./UserDetails');
 var UserDetailsWrapper = require('./UserDetailsWrapper');
 
-function pre(object) {
-  return <pre> {JSON.stringify(object, null, 2)} </pre>
-}
-
 function ConfirmBattle(props) {
   return props.isLoading
     ? <p> It's loading fam! </p>
