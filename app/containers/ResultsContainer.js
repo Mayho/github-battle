@@ -27,7 +27,6 @@ var ResultsContainer = React.createClass({
         scores={this.state.scores} />
     );
   }
-
 });
 
 module.exports = ResultsContainer;
